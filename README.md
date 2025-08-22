@@ -7,8 +7,11 @@ O projeto é a criação do Vulcano Chatbot, um assistente virtual inteligente d
 O chatbot terá as seguintes funções:
 
 •	Facilitar o contato entre empresas construtoras e profissionais autônomos (pedreiros, pintores, serventes, eletricistas etc.).
-•	Centralizar as solicitações em um canal único (WhatsApp) de fácil acesso para trabalhadores que não dominam plataformas complexas.
+
+• Centralizar as solicitações em um canal único (WhatsApp) de fácil acesso para trabalhadores que não dominam plataformas complexas.
+
 •	Automatizar processos como cadastro de profissionais, envio de propostas de trabalho, confirmação de disponibilidade e repasse de informações.
+
 •	Auxiliar na redução de falhas de comunicação, agilizando contratações e otimizando o tempo da construtora.
 
 Objetivos do projeto
