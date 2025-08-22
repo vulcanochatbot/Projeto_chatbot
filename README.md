@@ -18,6 +18,6 @@ Objetivos do projeto:
 
 •	Estamos criando este chatbot porque existe uma necessidade clara de simplificar a comunicação entre empresas e o público, especialmente para pessoas menos familiarizadas com tecnologia. O objetivo é tornar processos, que muitas vezes são complexos, mais acessíveis e intuitivos.
 
-# MAPEAMENTO DE STEAKHOLDERS: https://drive.google.com/file/d/1IaRP-dtatdlFqObDnnv6HW0nX1IerTq0/view?usp=drive_link
+# Mapeamento de Steakholders: https://drive.google.com/file/d/1IaRP-dtatdlFqObDnnv6HW0nX1IerTq0/view?usp=drive_link
 
-# APRESENTAÇÃO: https://1drv.ms/b/c/206864300d183689/ETiwUurMz6pDvMgjVR3nr8YB2HIV1s_lbzUQwJ1BTJmjnw?e=XFJqaz
+# Apresentação: https://1drv.ms/b/c/206864300d183689/ETiwUurMz6pDvMgjVR3nr8YB2HIV1s_lbzUQwJ1BTJmjnw?e=XFJqaz
