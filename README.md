@@ -14,6 +14,6 @@ O chatbot terá as seguintes funções:
 
 •	Auxiliar na redução de falhas de comunicação, agilizando contratações e otimizando o tempo da construtora.
 
-Objetivos do projeto
+Objetivos do projeto:
 
 •	Estamos criando este chatbot porque existe uma necessidade clara de simplificar a comunicação entre empresas e o público, especialmente para pessoas menos familiarizadas com tecnologia. O objetivo é tornar processos, que muitas vezes são complexos, mais acessíveis e intuitivos.
