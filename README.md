@@ -1,36 +1,42 @@
-# Projeto Integrador 1 - ADS
+#  Vulcano Chatbot
 
-## Contexto do problema — Contratação na Construção Civil (Brasil)
+##  O que é?
+O **Vulcano Chatbot** é um assistente virtual inteligente desenvolvido em **Python**, com integração via **FastAPI** e armazenamento em **PostgreSQL**.  
+Seu objetivo é **facilitar a comunicação entre construtoras e profissionais da construção civil**, simplificando o processo de **contratação de mão de obra**.
 
-###  Contratar profissionais de obra (pedreiros, pintores, eletricistas, serventes, azulejistas, gesseiros, encanadores) e também perfis técnicos (mestres de obra, topógrafos, arquitetos, engenheiros) ainda é lento, desigual e caro. A combinação de informalidade elevada, canais de recrutamento fragmentados e barreiras de letramento/alfabetização digital mantém bons profissionais invisíveis, enquanto empresas perdem prazo e dinheiro.
+---
 
+##  Para que serve?
+- Automatizar conversas via **WhatsApp**, tornando o processo acessível até para trabalhadores com baixa escolaridade.  
+- Auxiliar construtoras a **encontrar e contratar profissionais de forma ágil**.  
+- Garantir **respostas personalizadas e contextualizadas** usando **GPT-4 + LangChain**.  
 
-No Brasil, obras dependem de equipes que mudam rápido. A contratação de pedreiros, pintores, eletricistas, serventes — e também perfis técnicos como mestres de obra, arquitetos e engenheiros — ainda acontece, em grande parte, por indicação e grupos informais. Com alta informalidade, quase não há histórico padronizado de competências, referências ou avaliações. Isso gera desencontro entre necessidade e oferta: as empresas têm pressa e não encontram o profissional certo na região e no prazo; bons profissionais ficam invisíveis.
+---
 
-A comunicação digital também é um obstáculo. Muitos candidatos têm baixa escolaridade ou letramento digital, preferem áudio a texto e usam só o smartphone para acessar a internet. Formulários longos, e-mail e sites pesados afastam quem mais precisa. O resultado é um funil desorganizado: triagem demorada, decisões enviesadas pela rede de contatos, atrasos de obra, custos maiores e pouca rastreabilidade de qualidade e segurança.
+##  Como funciona?
+- **Interação via WhatsApp** com mensagens processadas por **GPT-4**.  
+- **LangChain** para manter o contexto das conversas.  
+- **PostgreSQL** para armazenamento das informações.  
+- **FastAPI** para criar e gerenciar as APIs de integração.  
+- Possibilidade de escalabilidade com **Docker** e implantação em **Cloud** futuramente.  
 
-## Diagnóstico social (síntese)
+---
 
-### A contratação de mão de obra na construção civil é travada por: 
+##  Quem vai desenvolver?
+Equipe do curso de **ADS – 3º semestre**, composta por três integrantes:  
+- **João Vitor** – Desenvolvimento do corpo principal em **Python**  
+- **João César** – Estruturação do **Banco de Dados (PostgreSQL)**  
+- **Carlos Eduardo** – Criação da **API (FastAPI)**  
 
-* 1 - informalidade elevada e baixa visibilidade dos trabalhadores; 
+---
 
-* 2 - desencontro de perfis e prazos estourados; 
+##  Metodologia
+O projeto será desenvolvido utilizando **Scrum**, com:  
+- **Sprints semanais**  
+- **Organização e acompanhamento no Notion**  
+- **Revisão e refinamento contínuo** até a entrega final em **novembro**  
 
-* 3 - canais de contratação fragmentados e analógicos; 
+---
 
-* 4 - barreiras de alfabetização e letramento digital;
-
-* 5 - acesso predominantemente móvel que inviabiliza processos pesados. 
-
-O efeito combinado são atrasos, custos, vieses na seleção e exclusão de profissionais qualificados.
-
-# Links 
-
-Link da Apresentação: [[Link Text](https://1drv.ms/b/c/206864300d183689/ETiwUurMz6pDvMgjVR3nr8YB2HIV1s_lbzUQwJ1BTJmjnw?e=XFJqaz)](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+##  Prazo
+Entrega prevista: **Novembro de 2025**
