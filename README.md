@@ -37,6 +37,3 @@ O projeto será desenvolvido utilizando **Scrum**, com:
 - **Revisão e refinamento contínuo** até a entrega final em **novembro**  
 
 ---
-
-##  Prazo
-Entrega prevista: **Novembro de 2025**
