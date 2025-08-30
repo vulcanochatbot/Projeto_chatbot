@@ -1,25 +1,24 @@
-# Projeto_chatbot
+# Example headings
 
-Projeto Integrador 1 - ADS
+## Sample Section
 
-O projeto é a criação do Vulcano Chatbot, um assistente virtual inteligente de auxílio para contratação de mão de obra no setor da construção civil.
- 
-O chatbot terá as seguintes funções:
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-•	Facilitar o contato entre empresas construtoras e profissionais autônomos (pedreiros, pintores, serventes, eletricistas etc.).
+## This heading is not unique in the file
 
-• Centralizar as solicitações em um canal único (WhatsApp) de fácil acesso para trabalhadores que não dominam plataformas complexas.
+TEXT 1
 
-•	Automatizar processos como cadastro de profissionais, envio de propostas de trabalho, confirmação de disponibilidade e repasse de informações.
+## This heading is not unique in the file
 
-•	Auxiliar na redução de falhas de comunicação, agilizando contratações e otimizando o tempo da construtora.
+TEXT 2
 
-Objetivos do projeto:
+# Links to the example headings above
 
-•	Estamos criando este chatbot porque existe uma necessidade clara de simplificar a comunicação entre empresas e o público, especialmente para pessoas menos familiarizadas com tecnologia. O objetivo é tornar processos, que muitas vezes são complexos, mais acessíveis e intuitivos.
+Link to the sample section: [Link Text](#sample-section).
 
-# Mapeamento de Steakholders: https://drive.google.com/file/d/1IaRP-dtatdlFqObDnnv6HW0nX1IerTq0/view?usp=drive_link
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
 
-# Apresentação: https://1drv.ms/b/c/206864300d183689/ETiwUurMz6pDvMgjVR3nr8YB2HIV1s_lbzUQwJ1BTJmjnw?e=XFJqaz
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
-# Mapa da Empatia: https://docs.google.com/document/d/1IejsVmPeACB6SAdFcGZUg78T4nles65N/edit?usp=drive_link&ouid=101941567797186905085&rtpof=true&sd=true
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
